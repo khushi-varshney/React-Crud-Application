@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "0": {
+        "id": "5b03",
+        "name": "Khushi Varshney",
+        "username": "khushi",
+        "email": "abc@gmail.com",
+        "phone": "1234567890"
+      },
+      "1": {
+        "id": "e6a1",
+        "name": "AVB SDFG",
+        "username": "asv",
+        "email": "fgh@gmail.com",
+        "phone": "5473892098"
+      },
+      "name": "Khushi Varshney",
+      "username": "khushi",
+      "email": "abc@gmail.com",
+      "phone": "5473892098",
+      "id": "5b03"
+    },
+    {
+      "0": {
+        "0": {
+          "id": "5b03",
+          "name": "Khushi Varshney",
+          "username": "khushi",
+          "email": "abc@gmail.com",
+          "phone": "1234567890"
+        },
+        "1": {
+          "id": "e6a1",
+          "name": "AVB SDFG",
+          "username": "asv",
+          "email": "fgh@gmail.com",
+          "phone": "5473892098"
+        },
+        "name": "Khushi Varshney",
+        "username": "khushi",
+        "email": "abc@gmail.com",
+        "phone": "5473892098",
+        "id": "5b03"
+      },
+      "1": {
+        "id": "e6a1",
+        "name": "AVB SDFG",
+        "username": "asv",
+        "email": "fgh@gmail.com",
+        "phone": "5473892098"
+      },
+      "name": "AVB SDFG",
+      "username": "hdskjfh",
+      "email": "zxc@gmail.com",
+      "phone": "1234561234",
+      "id": "e6a1"
+    }
+  ]
+}
